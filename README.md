@@ -81,4 +81,4 @@ awk -F "\t" '$3 ~ /multiple/' maize_genotypes_combined.txt > Maize_SNPs/maize_mu
 
 
 ### Teosinte Data
-####Almost the same but with ZMPBA, ZMPIL, and ZMPJA and different file names
+#### Almost the same but with ZMPBA, ZMPIL, and ZMPJA and different file names
